@@ -81,7 +81,7 @@ Instead of telling students what not to do, we let them **investigate, decide, a
 - **Ranking** by coins and accuracy
 - **Game mode** with fair vs scam offers and mini challenge loops
 
-### AI Layer (Optional)
+### AI Layer (Important!)
 - AI scenario generation for content freshness
 - Investigation assistant for guided questioning
 - Phrase-avoidance + variety themes to reduce repetitive content
